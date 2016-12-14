@@ -1,0 +1,16 @@
+{
+  "name": "redis-nn",
+  "version": "1.0.0",
+  "description": "node_redis bindings for neural-redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "redis"
+  ],
+  "author": "Kyle J Davis",
+  "license": "MIT"
+}
